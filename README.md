@@ -6,7 +6,6 @@ B.A. in Mathematics, Minor in Economics, New York University<br>
 🌍 Based in New York City | Fluent in English & Mandarin</p>
 
 <h3>🔍 What I Do</h3>
-<img src="https://github.com/user-attachments/assets/217eccd5-f342-4201-9e3e-c8b4a7a68c1d" width="300" heigh="200" alt="programming gif"/>
 <p><b>💻 Programming Languages:<br>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R">
@@ -62,6 +61,6 @@ Conducted sentiment and interaction analysis on script data from *Friends*, reve
 
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/78cce2a8-d1f6-45a6-967f-8a94638ee10a" width="900" height="500"/>
+  <img src="https://github.com/user-attachments/assets/78cce2a8-d1f6-45a6-967f-8a94638ee10a" width="900" height="400"/>
 </div>
 
