@@ -1,16 +1,67 @@
-## Hi there 👋
+<h2>👋 Hi, I'm Wenyang Cao</h2>
 
-<!--
-**gcwyd1209/gcwyd1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🎓 <strong>Education</strong></h3>
+Master’s in Applied Analytics, Columbia University<br>
+B.A. in Mathematics, Minor in Economics, New York University<br>
+🌍 Based in New York City | Fluent in English & Mandarin</p>
 
-Here are some ideas to get you started:
+<h3>🔍 What I Do</h3>
+<img src="https://github.com/user-attachments/assets/217eccd5-f342-4201-9e3e-c8b4a7a68c1d" width="300" heigh="200" alt="programming gif"/>
+<p><b>💻 Programming Languages:<br>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/MATLAB-orange?logo=mathworks&logoColor=white" alt="MATLAB">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><b>🛠️ Frameworks & Tools:</b><br>
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau">
+<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/Jedox-004E95?logo=google-analytics&logoColor=white" alt="Jedox">
+<img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white" alt="Looker">
+</p>
+
+<p><b>📊 Analytics & Modeling:</b><br>
+Data Visualization · A/B Testing · Statistical Analysis (Hypothesis Testing, Time Series) · Machine Learning (Regression, Classification, Predictive Modeling) · Data Cleaning & Preprocessing · NLP (spaCy, Simhash, LDA)
+</p>
+
+<p><b>🗄️ Databases:</b><br>
+MySQL Workbench · MongoDB · Neo4j
+</p>
+
+
+<h3>🚀 Notable Projects:</h3>
+
+<p>
+<b><a href="https://github.com/gcwyd1209/Loan-Default-Prediction" target="_blank">🔗 Loan Default Prediction</a></b><br>
+Built a machine learning model (GBM) using the Berka Dataset to predict loan defaults, integrating behavioral, demographic, and financial features for improved credit risk assessment.
+
+<b><a href="https://github.com/gcwyd1209/friends" target="_blank">🔗 Friends TV Show Dialogue Analysis</a></b><br>
+Conducted sentiment and interaction analysis on script data from *Friends*, revealing character dynamics and emotional trends through data visualization and text mining in R.
+
+</p>
+
+<h3>💼 Experience</h3>
+
+<ul>
+  <li><b>Quantumera AI</b> – Data Scientist Intern</li>
+  <li><b>London ESG Analytics</b> – Product Manager Research Intern</li>
+  <li><b>Tencent</b> – Data Analyst Associate</li>
+  <li><b>People's Insurance Company of China</b> – Data Analyst Intern</li>
+</ul>
+
+
+<h3>📬 Let’s Connect:</h3>
+<p>
+<a href="https://www.linkedin.com/in/wenyang-wen-cao-888ab72a1" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" width="60">
+</a><br>
+📧 wenyangcao99@gmail.com
+</p>
+
+
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/78cce2a8-d1f6-45a6-967f-8a94638ee10a" width="900" height="500"/>
+</div>
+
