@@ -1,19 +1,17 @@
 <h2>👋 Hi, I'm Wenyang Cao</h2>
 
-<h3>🎓 <strong>Education</strong></h3>
-Master’s in Applied Analytics, Columbia University<br>
-B.A. in Mathematics, Minor in Economics, New York University<br>
-🌍 Based in New York City | Fluent in English & Mandarin</p>
+<h3>✨ <strong>About Me</strong></h3>
+I’m someone who genuinely enjoys digging into data and figuring out what it’s trying to tell us. I like solving problems, spotting patterns, and turning messy information into something clear and useful. I'm curious by nature, detail-oriented, and always up for learning something new—especially if it helps make things more efficient or insightful.</p>
 
 <h3>🔍 What I Do</h3>
-<p><b>💻 Programming Languages:<br>
+<p><b>Programming Languages:<br>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R">
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/MATLAB-orange?logo=mathworks&logoColor=white" alt="MATLAB">
 </p>
 
-<p><b>🛠️ Frameworks & Tools:</b><br>
+<p><b>Frameworks & Tools:</b><br>
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS">
 <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau">
 <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel">
@@ -21,14 +19,13 @@ B.A. in Mathematics, Minor in Economics, New York University<br>
 <img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white" alt="Looker">
 </p>
 
-<p><b>📊 Analytics & Modeling:</b><br>
+<p><b>Analytics & Modeling:</b><br>
 Data Visualization · A/B Testing · Statistical Analysis (Hypothesis Testing, Time Series) · Machine Learning (Regression, Classification, Predictive Modeling) · Data Cleaning & Preprocessing · NLP (spaCy, Simhash, LDA)
 </p>
 
-<p><b>🗄️ Databases:</b><br>
+<p><b>Databases:</b><br>
 MySQL Workbench · MongoDB · Neo4j
 </p>
-
 
 <h3>🚀 Notable Projects:</h3>
 
@@ -41,6 +38,7 @@ Conducted sentiment and interaction analysis on script data from *Friends*, reve
 
 </p>
 
+
 <h3>💼 Experience</h3>
 
 <ul>
@@ -49,7 +47,6 @@ Conducted sentiment and interaction analysis on script data from *Friends*, reve
   <li><b>Tencent</b> – Data Analyst Associate</li>
   <li><b>People's Insurance Company of China</b> – Data Analyst Intern</li>
 </ul>
-
 
 <h3>📬 Let’s Connect:</h3>
 <p>
