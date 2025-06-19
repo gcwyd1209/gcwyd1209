@@ -50,10 +50,7 @@ Conducted sentiment and interaction analysis on script data from *Friends*, reve
 
 <h3>📬 Let’s Connect:</h3>
 <p>
-<a href="https://www.linkedin.com/in/wenyang-wen-cao-888ab72a1" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" width="60">
-</a><br>
-📧 wenyangcao99@gmail.com
+[Email](mailto:wenyangcao99@gmail.com) · [LinkedIn](https://linkedin.com/in/wenyang-wen-cao-888ab72a1)  
 </p>
 
 
