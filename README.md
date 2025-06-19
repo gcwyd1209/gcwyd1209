@@ -49,9 +49,8 @@ Conducted sentiment and interaction analysis on script data from *Friends*, reve
 </ul>
 
 <h3>📬 Let’s Connect:</h3>
-<p>
-[Email](mailto:wenyangcao99@gmail.com) · [LinkedIn](https://linkedin.com/in/wenyang-wen-cao-888ab72a1)  
-</p>
+- 📧 [wenyangcao99@gmail.com](mailto:wenyangcao99@gmail.com)  
+- 💼 [LinkedIn Profile](https://linkedin.com/in/wenyang-wen-cao-888ab72a1)
 
 
 <div style="text-align: center;">
